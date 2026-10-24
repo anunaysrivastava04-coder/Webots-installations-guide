@@ -1,4 +1,4 @@
-# Webots Commands & Makefile Cheat Sheet (Ubuntu)
+# Webots Commands &  Cheat Sheet (Ubuntu)
 
 This guide provides a quick reference for launching Webots from the Ubuntu terminal, managing builds using Makefiles, and writing standard controller code.
 
