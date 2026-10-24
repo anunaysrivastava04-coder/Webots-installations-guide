@@ -1,4 +1,4 @@
-# Webots Controller Programming Guide (Makefile Focus)
+# Webots Controller Programming Guide 
 
 When writing C or C++ controllers for your robots in Webots on Ubuntu, the standard and most efficient way to compile them is by using `make`. Webots provides a built-in `Makefile.include` that handles all the complex linking to the Webots libraries automatically.
 
